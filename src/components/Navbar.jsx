@@ -17,6 +17,7 @@ const Navbar = () => {
           onClick={() => {
             setActive("");
             window.scrollTo(0, 0);
+            //complete function
           }}
         >
           <img
