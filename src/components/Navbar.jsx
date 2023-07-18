@@ -42,6 +42,7 @@ const Navbar = () => {
             src={menu}
             alt="menu"
             className="'w-[28px] h-[28px] object-contain cursor-pointer"
+            onClick={() => setToggle()}
           />
         </div>
       </div>
